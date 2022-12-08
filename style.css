@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-flow: column;
+    max-width: 300px;
+    font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    background-color: blueviolet;
+}
+
+form > * {
+    margin: 5px;
+}
+
+p {
+    text-align: right;
+    margin-top: 5%;
+    font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
